@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gergeorg&show_icons=true&count_private=true&theme=dracula">
+</p>
+
 ### Hi there 👋
 
 <!--
