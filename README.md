@@ -2,6 +2,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gergeorg&show_icons=true&count_private=true&theme=dracula">
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gergeorg&repo=top-app)](https://github.com/gergeorg/top-app)
+
 <!--
 **gergeorg/gergeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
