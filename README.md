@@ -1,6 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gergeorg&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=gergeorg&show_icons=true&count_private=true&theme=dracula">
-### Hi there 👋
+### Hi there 👋 Here are my projects:
+
+## React
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gergeorg&repo=top-app&theme=dracula)](https://github.com/gergeorg/top-app)
 
