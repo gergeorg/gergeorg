@@ -1,6 +1,4 @@
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gergeorg&show_icons=true&count_private=true&theme=dracula"></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gergeorg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=gergeorg&show_icons=true&count_private=true&theme=dracula">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gergeorg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
