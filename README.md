@@ -1,7 +1,5 @@
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gergeorg&show_icons=true&count_private=true&theme=dracula">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gergeorg)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gergeorg)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ### Hi there 👋
