@@ -10,7 +10,7 @@
 - Redux, Redux Toolkit
 - Webpack, Vite
 - TypeScript
-- Hook Form
+- React Hook Form
 - React Router
 - Material UI, Bootstrap, Tailwind
   
