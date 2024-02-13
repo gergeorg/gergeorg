@@ -1,5 +1,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gergeorg&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=gergeorg&show_icons=true&count_private=true&theme=dracula">
+
+## My stack
+
+- React
+- HTML
+- CSS (SCSS, CSS Modules)
+- JS
+- Figma
+- Redux, Redux Toolkit
+- Webpack, Vite
+- TypeScript
+- Hook Form
+- React Router
+- Material UI, Bootstrap, Tailwind
+  
 ### Hi there 👋 Here are my projects:
 
 ## React
