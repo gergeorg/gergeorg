@@ -6,6 +6,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gergeorg&repo=top-app&theme=dracula)](https://github.com/gergeorg/top-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gergeorg&repo=inspired&theme=dracula)](https://github.com/gergeorg/inspired)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gergeorg&repo=Koff-shop_React&theme=dracula)](https://github.com/gergeorg/Koff-shop_React)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gergeorg&repo=gallary_react&theme=dracula)](https://github.com/gergeorg/gallary_react)
 
 <!--
 **gergeorg/gergeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
