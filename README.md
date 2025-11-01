@@ -16,6 +16,10 @@
   
 ### Hi there 👋 Here are my projects:
 
+## Vue
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gergeorg&repo=cinema&theme=dracula)](https://github.com/gergeorg/cinema)
+
 ## React
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gergeorg&repo=top-app&theme=dracula)](https://github.com/gergeorg/top-app)
